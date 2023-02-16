@@ -1,0 +1,12 @@
+start = book
+book = element book {line}
+line = element line { (character | action | emotion)* }
+character = attribute character {"Achilles" | "Patroclus" | "Hector" | "Agamemnon" | "Gods" | "epithet"}
+action = element action {intention, setting} 
+intention = attribute intention {"positive" | "negative"}
+setting = attribute setting {"public" | "private"}
+emotion = element emotion {type, felt, appropriate, direction}
+type = attribute type {"internal" | "external"}
+felt = attribute felt {"wrath" | "anger" | "lament"}
+appropriate = attribute appropriate {"yes" | "no"}
+direction = attribute direction {"at_someone" | "at_no-one"}
