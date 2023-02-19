@@ -1,0 +1,15 @@
+start = book
+book = element book {line+}
+line = element line {emotion? | character? | action?}
+action = element action {intent, direction}
+intent = attribute intent {text}
+direction = attribute direction {text}
+character = element character {name, relationship}
+name = attribute name {text}
+relationship = attribute relationship {text}
+emotion = element emotion {type, felt, mourning?}
+type = attribute type {text}
+mourning = element mourning {appropriate}
+appropriate = attribute appropriate {text}
+felt = attribute felt {text}
+epithet = element epithet {text}
