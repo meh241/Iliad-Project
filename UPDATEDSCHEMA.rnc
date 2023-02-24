@@ -1,0 +1,15 @@
+start = book
+book = element book {mixed{(lb | character | action | emotion)*} }
+lb = element lb { empty }
+character = element character {who, epithet?, text}
+epithet = attribute epithet {"positive" | "negative" | "neutral"}
+who = attribute who {"Achilles" | "Patroclus" | "Hector" | "Agamemnon" | "Gods" }
+action = element action {intention, setting, direction, relationship?} 
+intention = attribute intention {"positive" | "negative"}
+setting = attribute setting {"public" | "private"}
+emotion = element emotion {type, felt, appropriate, direction, relationship?}
+type = attribute type {"internal" | "external"}
+felt = attribute felt {"wrath" | "anger" | "lament"|"fear"|"relief"}
+appropriate = attribute appropriate {"yes" | "no"}
+direction = attribute direction {"at_someone" | "at_no-one"}
+relationship = attribute relationship {"romantic" | "enemies" | "familial" | "neutral"}
