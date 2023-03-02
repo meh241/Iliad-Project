@@ -201,27 +201,27 @@
  waggon, and clasping his head the while, wailed and tore their hair; and the folk thronged about
  and wept. And now the whole day long until set of sun had they made lament for Hector with shedding
  of tears there without the gates,<lb/>had not the old man spoken amid the folk from out the
- car:"Make me way for the mules to pass through; thereafter shall ye take your fill of wailing, when
+ car:"<action direction="at_someone" relationship="familial" intention="positive" setting="public">Make me way for the mules to pass through; thereafter shall ye take your fill of wailing, when
  I have brought him to the house." So spake he, and they stood apart and made way for the waggon.
  But the others, when they had brought him to the glorious house,<lb/>laid him on a corded bedstead,
  and by his side set singers, leaders of the dirge, who led the song of lamentation—they chanted the
- dirge, and thereat the women made lament. And amid these white-armed Andromache led the wailing,
- holding in her arms the while the head of man-slaying Hector:<lb/>"Husband, perished from out of
- life art thou, yet in thy youth, and leavest me a widow in thy halls; and thy son is still but a
+ dirge, and thereat the women made lament. And amid these white-armed <emotion relationship="romantic" direction="at_someone" appropriate="yes" type="external" felt="lament">Andromache led the wailing,</emotion>
+ holding in her arms the while the head of <character who="Hector" epithet="negative">man-slaying Hector</character>:<lb/>"Husband, perished from out of
+ life art thou, <emotion felt="lament" type="external" appropriate="yes" direction="at_someone" relationship="romantic">yet in thy youth, and leavest me a widow in thy halls; and thy son is still but a
  babe, the son born of thee and me in our haplessness; neither do I deem that he will come to
- manhood, for ere that shall this city be wasted utterly. For thou hast perished that didst watch
+ manhood, for ere that shall this city be wasted utterly</action>. For thou hast perished that didst watch
  thereover,<lb/>thou that didst guard it, and keep safe its noble wives and little children. These,
  I ween, shall soon be riding upon the hollow ships, and I among them; and thou, my child, shalt
  follow with me to a place where thou shalt labour at unseemly tasks, toiling before the face of
  some ungentle master, or else some Achaean shall seize thee by the arm<lb/>and hurl thee from the
- wall, a woeful death, being wroth for that Hector slew his brother haply, or his father, or his
- son, seeing that full many Achaeans at the hands of Hector have bitten the vast earth with their
+ wall, a woeful death,</emotion> being wroth for that <character who="Hector" >Hector</character> slew his brother haply, or his father, or his
+ son, seeing that full many Achaeans at the hands of <character who="Hector">Hector</character> have bitten the vast earth with their
  teeth; for nowise gentle was thy father in woeful war.<lb/>Therefore the folk wail for him
- throughout the city, and grief unspeakable and sorrow hast thou brought upon thy parents, Hector;
+ throughout the city, and grief unspeakable and sorrow hast thou brought upon thy parents, <character who="Hector">Hector</character>;
  and for me beyond all others shall grievous woes be left. For at thy death thou didst neither
  stretch out thy hands to me from thy bed, nor speak to me any word of wisdom whereon<lb/>I might
  have pondered night and day with shedding of tears."<lb/> So spake she wailing, and thereat the
- women made lament. And among them Hecabe in turns led the vehement wailing:"Hector, far dearest to
+ women made lament. And among them Hecabe in turns led the vehement wailing:"<character who="Hector">Hector</character>, far dearest to
  my heart of all my children, lo, when thou livedst thou wast dear to the gods,<lb/>and therefore
  have they had care of thee for all thou art in the doom of death. For of other sons of mine
  whomsoever he took would swift-footed <character who="Achilles">Achilles</character> sell beyond the unresting sea, unto Samos and Imbros
@@ -229,8 +229,8 @@
  bronze<lb/>oft would he drag thee about the barrow of his comrade, <character who="Patroclus"> Patroclus </character>, whom thou didst slay;
  howbeit even so might he not raise him up. all dewy-fresh thou liest in my halls as wert thou g
  newly slain, like as one whom Apollo of the silver bow assaileth with his gentle shafts and
- slayeth." <lb/>So spake she wailing, and roused unabating lament. And thereafter Helen was the
- third to lead the wailing:"Hector, far dearest to my heart of all my husband's brethren! In sooth
+ slayeth." <lb/><action relationship="romantic" direction="at_someone" setting="public" intention="positive">So spake she wailing, and roused unabating lament</action>. <emotion direction="at_someone" relationship="familial" appropriate="yes" type="external" felt="lament">And thereafter Helen was the
+ third to lead the wailing:</emotion>"<character who="Hector">Hector</character>, far dearest to my heart of all my husband's brethren! In sooth
  my husband is godlike Alexander, that brought me to Troy-land —would I died ere then!<lb/>For this
  is now the twentieth year from the time when I went from thence and am gone from my native land,
  but never yet heard I evil or despiteful word from thee; nay, if so be any other spake
@@ -240,19 +240,19 @@
  Wherefore I wail alike for thee and for my hapless self with grief at heart; for no longer have I
  anyone beside in broad Troy<lb/>that is gentle to me or kind; but all men shudder at me."<lb/> So
  spake she wailing, and thereat the countless throng made moan. But the old man <character who="Priam">Priam</character> spake among
- the folk, saying:"Bring wood now, ye men of Troy, unto the city, neither have ye anywise fear at
+ the folk, saying:<action relationship="familial" direction="at_someone" intention="positive" setting="public">"Bring wood now, ye men of Troy, unto the city, neither have ye anywise fear at
  heart of a cunning ambush of the Argives; for verily <character who="Achilles">Achilles</character> laid upon me this word<lb/>when he
  sent me forth from the black ships, that he would do us no hurt until the twelfth dawn be come." So
  spake he, and they yoked oxen and mules to waggons, and speedily thereafter gathered together
  before the city. For nine days' space they brought in measureless store of wood,<lb/>but when the
- tenth Dawn arose, giving light unto mortals, then bare they forth bold Hector, shedding tears the
- while, and on the topmost pyre they laid the dead man, and cast fire thereon. But soon as early
- Dawn appeared, the rosy-fingered, then gathered the folk about the pyre of glorious Hector.<lb/>And
+ tenth Dawn arose, giving light unto mortals, then bare they forth <character who="Hector" epithet="positive">bold Hector</character>, shedding tears the
+ while, and on the topmost pyre they laid the dead man, and cast fire thereon.</action> <action setting="public" intention="positive" direction="at_someone" relationship="familial">But soon as early
+ <character who="Gods" epithet="positive">Dawn appeared, the rosy-fingered</character>, then gathered the folk about the pyre of <character who="Hector" epithet="positive">glorious Hector</character>.<lb/>And
  when they were assembled and met together, first they quenched with flaming wine all the pyre, so
  far as the fire's might had come upon it, and thereafter his brethren and his comrades gathered the
  white bones, mourning, and big tears flowed ever down their cheeks.<lb/>The bones they took and
  placed in a golden urn, covering them over with soft purple robes, and quickly laid the urn in a
- hollow grave, and covered it over with great close-set stones. <action intention="positive">Then with spe'[ed heaped they the
+ hollow grave, and covered it over with great close-set stones. </action><action intention="positive">Then with spe'[ed heaped they the
  mound, and round about were watchers set on every side,<lb/>lest the well-greaved Achaeans should
  set upon them before the time. And when they had piled the barrow they went back, and gathering
  together duly feasted a glorious feast in the palace of <character who="Priam" epithet="positive">Priam, the king fostered of <character who="Gods">Zeus</character></character>.</action><action intention="positive" relationship="familial" setting="public" direction="at_someone"> On this
