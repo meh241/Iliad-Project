@@ -38,7 +38,7 @@
  old man, and brought in the glorious gifts for the <character who="Achilles" epithet="positive">Achilles swift-footed son of Peleus</character>; and from the chariot
  he stepped down to the ground and spake, saying: <lb/>"Old sire, I that am come to thee am immortal
  god, even <character who="Gods">Hermes</character>; for <character who="Gods">the Father</character> sent me to guide thee on thy way. But now verily will I go back,
- neither come within <character who="Gods"><character who="Achilles">Achilles</character></character>' sight; good cause for wrath would it be that an immortal god should
+ neither come within <character who="Achilles">Achilles</character>' sight; good cause for wrath would it be that an immortal god shoul
  thus openly be entertained of mortals.<lb/>But go thou in,<action direction="at_someone" intention="positive" relationship="enemies" setting="private"> and clasp the knees of the <character who="Achilles" epithet="neutral"> Achilles, son of Peleus</character>
  and entreat him by his father and his fair-haired mother and his child, that thou mayest stir his
  soul."</action><lb/> So spake <character who="Gods">Hermes</character>, and departed unto high Olympus; and <character who="Priam">Priam</character> leapt from his chariot to
@@ -78,7 +78,7 @@
  hadst thou the heart to come alone to the ships of the Achaeans,<lb/>to meet the eyes of me that
  have slain thy sons many and valiant? Of iron verily is thy heart. But come, sit thou upon a seat,
  and our sorrows will we suffer to lie quiet in our hearts, despite our pain; for no profit cometh
- of chill lament.</action><lb/<action intention="negative" direction="at_someone">For on this wise have the gods spun the thread for wretched mortals, that they
+ of chill lament.</action><lb/><action intention="negative" direction="at_someone">For on this wise have the gods spun the thread for wretched mortals, that they
  should live in pain; and themselves are sorrowless. For two urns are set upon the floor of <character who="Gods">Zeus</character> of
  gifts that he giveth, the one of ills, the other of blessings. To whomsoever <character who="Gods" epithet="neutral">Zeus, that hurleth the
  thunderbolt,</character> giveth a mingled lot,<lb/>that man meeteth now with evil, now with good; but to
@@ -95,13 +95,13 @@
  say, thou, old sire, wast preeminent by reason of thy wealth and thy sons. Howbeit from the time
  when the heavenly gods brought upon thee this bane, ever around thy city are battles and slayings
  of men. Bear thou up, neither wail ever ceaselessly in thy heart; <action intention="positive" relationship="familial">for naught wilt thou avail by
- <emotion felt="lament">grieving for thy son,<lb/>neither wilt thou bring him back to life</emotion></action>; ere that shalt thou suffer some
+ <emotion felt="lament" appropriate = "yes" direction="at_someone" type="internal">grieving for thy son,<lb/>neither wilt thou bring him back to life</emotion></action>; ere that shalt thou suffer some
  other ill."<lb/> <action intention="positive">And the old man, <character who="Priam" epithet="positive">godlike Priam</character>, answered him:</action> "Seat me not anywise upon a chair, O
-<character who="<character who="Achilles">Achilles</character>" epithet="positive"> thou fostered of Zeus</character>, so long as <character who="Hector">Hector</character> <action intention="negative">lieth uncared-for amid the huts</action>;<lb/><action intention="positive" relationship="neutral" direction="at_someone" setting="private">nay, give him back
+<character who="Achilles">Achilles thou fostered of Zeus</character>, so long as <character who="Hector">Hector</character> <action intention="negative">lieth uncared-for amid the huts</action>;<lb/><action intention="positive" relationship="neutral" direction="at_someone" setting="private">nay, give him back
  with speed, that mine eyes may behold him; and do thou accept the ransom, the great ransom, that we
  bring. So mayest thou have joy thereof, and come to thy native land, seeing that from the first
- thou hast spared me.</action>" <action relationship="enemies" intention="negative">Then with an angry glance from beneath his brows spake to him <character who="<character who="Achilles">Achilles</character>" epithet="neutral"><character who="Achilles">Achilles</character> swift
- of foot:</character></action><lb/>"Provoke me no more, old sir; I am minded even of myself to give <character who="Hector">Hector</charactern> back to thee;
+ thou hast spared me.</action>" <action relationship="enemies" intention="negative">Then with an angry glance from beneath his brows spake to him<character who="Achilles">Achilles</character> swift
+ of foot:</action><lb/>"Provoke me no more, old sir; I am minded even of myself to give <character who="Hector">Hector</character> back to thee;
  for from <character who="Gods">Zeus</character> there came to me a messenger, even <character who="Gods">the mother that bare me</character>, daughter of the <character who="Gods">old man
  of the sea</character>. And of thee, <character who="Priam">Priam</character>, do I know in my heart—it nowise escapeth me—that some god led thee
  to the swift ships of the Achaeans.<lb/>For no mortal man, were he never so young and strong, would
@@ -126,7 +126,7 @@
  his dear father, seeing that not unseemly is the ransom he hath given me.<lb/>And unto thee shall I
  render even of this all that is thy due."</action><lb/> So spake <character who="Achilles" epithet="positive">goodly Achilles</character>, and went back within the
  hut and on the richly-wrought chair wherefrom he had risen sate him down by the opposite wall, and
- he spake unto <character who="Priam"Priam</character>, saying:"Thy son, old sire, is given back according to thy wish,<lb/>and lieth
+ he spake unto <character who="Priam">Priam</character>, saying:"Thy son, old sire, is given back according to thy wish,<lb/>and lieth
  upon a bier; and at break of day thou shalt thyself behold him, as thou bearest him hence; but for
  this present let us bethink us of supper. For even the fair-haired Niobe bethought her of meat,
  albeit twelve children perished in her halls, six daughters and six lusty sons.<lb/>The sons <character who="Gods">Apollo</character>
