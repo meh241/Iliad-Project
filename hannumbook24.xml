@@ -62,11 +62,11 @@
  left.<lb/>Fifty I had, when the sons of the Achaeans came; nineteen were born to me of the
  self-same womb, and the others women of the palace bare. Of these, many as they were, furious <character who="Gods">Ares</character>
  hath loosed the knees, and he that alone was left me, that by himself guarded the city and the
- men,<lb/>him thou slewest but now as he fought for his country, even <character who="Hector">Hector.</character> 
+ men,<lb/>him thou slewest but now as he fought for his country, even <character who="Hector">Hector.</character> </action>
  <action intention="positive" relationship="familial" direction="at_no-one" setting="private"> For his sake am I now
- come to the ships of the Achaeans to win him back from thee,</action> and I bear with me ransom past
- counting. Nay, have thou awe of the gods, <character who="Achilles">Achilles</character>, and <action direction="at_someone" relationship="neutral" intention="positive" setting="private">take pity on me, remembering thine own
- father</action>. Lo, I am more piteous far than he,<lb/>and have endured what no other mortal on the face of
+ come to the ships of the Achaeans to win him back from thee, and I bear with me ransom past
+ counting. Nay, have thou awe of the gods, <character who="Achilles">Achilles</character>, and </action><action direction="at_someone" relationship="neutral" intention="positive" setting="private">take pity on me, remembering thine own
+ father. Lo, I am more piteous far than he,<lb/>and have endured what no other mortal on the face of
  earth hath yet endured, to reach forth my hand to the face of him that hath slain my sons."</action><lb/> <action setting="private" intention="positive" relationship="neutral" direction="at_someone">So
  spake he, and in <character who="Achilles">Achilles</character>"> he roused desire<emotion direction="at_someone" relationship="familial" type="external" felt="lament" appropriate="yes"> to weep for his father</emotion>; and he took the <character who="Priam">old man</character> by the
  hand, and gently put him from him. So the twain bethought them of their dead, and wept; the one for
@@ -211,7 +211,7 @@
  holding in her arms the while the head of <character who="Hector" epithet="negative">man-slaying Hector</character>:<lb/>"Husband, perished from out of
  life art thou, <emotion felt="lament" type="external" appropriate="yes" direction="at_someone" relationship="romantic">yet in thy youth, and leavest me a widow in thy halls; and thy son is still but a
  babe, the son born of thee and me in our haplessness; neither do I deem that he will come to
- manhood, for ere that shall this city be wasted utterly,</emotion></action>. For thou hast perished that didst watch
+ manhood, for ere that shall this city be wasted utterly.</emotion></action>. For thou hast perished that didst watch
  thereover,<lb/>thou that didst guard it, and keep safe its noble wives and little children. These,
  I ween, shall soon be riding upon the hollow ships, and I among them; and thou, my child, shalt
  follow with me to a place where thou shalt labour at unseemly tasks, toiling before the face of
@@ -243,7 +243,7 @@
  anyone beside in broad Troy<lb/>that is gentle to me or kind; but all men shudder at me."<lb/> So
  spake she wailing, and thereat the countless throng made moan. But the old man <character who="Priam">Priam</character> spake among
  the folk, saying:<action relationship="familial" direction="at_someone" intention="positive" setting="public">"Bring wood now, ye men of Troy, unto the city, neither have ye anywise fear at
- heart of a cunning ambush of the Argives; for verily <character who="Achilles">Achilles</character> laid upon me this word<lb/>when he
+ heart of a cunning ambush of the Argives</action>; for verily <character who="Achilles">Achilles</character> laid upon me this word<lb/>when he
  sent me forth from the black ships, that he would do us no hurt until the twelfth dawn be come." So
  spake he, and they yoked oxen and mules to waggons, and speedily thereafter gathered together
  before the city. For nine days' space they brought in measureless store of wood,<lb/>but when the
@@ -257,5 +257,5 @@
  hollow grave, and covered it over with great close-set stones. </action><action intention="positive" direction="at_no-one" setting="public" relationship="familial">Then with spe'[ed heaped they the
  mound, and round about were watchers set on every side,<lb/>lest the well-greaved Achaeans should
  set upon them before the time. And when they had piled the barrow they went back, and gathering
- together duly feasted a glorious feast in the palace of <character who="Priam" epithet="positive">Priam, the king fostered of </character><character who="Gods">Zeus</character>.</action><action intention="positive" relationship="familial" setting="public" direction="at_someone"> On this
- wise held they funeral for <character who="Hector" epithet="neutral">horse-taming Hector</character></emotion></action>.</action></book>
+ together duly feasted a glorious feast in the palace </action> of <character who="Priam" epithet="positive">Priam, the king fostered of </character><character who="Gods">Zeus</character><action intention="positive" relationship="familial" setting="public" direction="at_someone"> On this
+ wise held they funeral for <character who="Hector" epithet="neutral">horse-taming Hector</character>.</action></book>
