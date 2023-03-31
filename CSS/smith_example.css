@@ -17,12 +17,12 @@ body {
   font-size: 20px;
 }
 
-.topnav a:hover {
+.navbar a:hover {
   background-color: #5E0818;
   color: #EDEBD7;
 }
 
-.topnav a:active {
+.navbar a:active {
   background-color: #C36F09;
   color: #EDEBD7;
 }
