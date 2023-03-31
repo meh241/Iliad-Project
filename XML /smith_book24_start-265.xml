@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="UPDATEDSCHEMA.rnc" type="application/relax-ng-compact-syntax"?>
+<book>
+ <lb/><action intention="positive" direction="at_no-one" setting="public">Then was the gathering
+  broken up, and the folk scattered, each man to go to his own ship. The rest bethought them of
+  supper and of sweet sleep, to take their fill thereof</action>; but <character who="Achilles"
+  >Achilles</character>
+ <action intention="negative" direction="at_no-one" setting="private" relationship="romantic">wept,
+  ever remembering his dear comrade</action>, neither might sleep,<lb/>that mastereth all, lay hold
+ of him, but he turned him ever to this side or to that, <emotion direction="at_someone"
+  appropriate="yes" felt="lament" relationship="romantic" type="internal">yearning for the man-hood
+  and valorous might</emotion> of <character who="Patroclus">Patroclus</character>, thinking on all
+ he had wrought with him and all the woes he had borne, passing though wars of men and the grievous
+ waves. Thinking thereon <action intention="negative" direction="at_no-one" setting="private">he
+  would shed big tears</action>,<lb/>lying now upon his side, now upon his back, and now upon his
+ face; and then again <action intention="negative" direction="at_no-one" setting="private">he would
+  rise upon his feet and roam distraught along the shore of the sea.</action> Neither would he fail
+ to mark the Dawn, as she shone over the sea and the sea-beaches, but would yoke beneath the car his
+ swift horses,<lb/>and bind <character who="Hector">Hector</character>
+ <action intention="negative" direction="at_someone" setting="public">behind the chariot to drag him
+  withal; and when he had haled him thrice about the barrow of the dead son of Menoetius</action>,
+ he would rest again in his hut, but would leave <character who="Hector">Hector</character>
+ outstretched on his face in the dust. Howbeit <character who="Gods">Apollo</character>
+ <action intention="positive" direction="at_someone" setting="public">kept all defacement from his
+  flesh, pitying the warrior</action><lb/>even in death, and with the golden aegis he covered him
+ wholly, that <character who="Achilles">Achilles</character> might not tear his body as he dragged
+ him.<lb/> Thus <character who="Achilles">Achilles</character> in his <emotion type="external"
+  relationship="enemies" appropriate="yes" felt="wrath" direction="at_someone">fury</emotion> did
+ foul despite unto <character who="Hector" epithet="positive">goodly Hector</character>; but the
+ blessed gods had pity on him as they beheld him, and bestirred the keen-sighted Argeiphontes to
+ steal away the corpse.<lb/>And the thing was pleasing unto all the rest, yet not unto <character
+  who="Gods">Hera</character> or <character who="Gods">Poseidon</character> or the flashing-eyed
+ maiden, but they continued even as when at the first sacred Ilios became hateful in their eyes and
+  <character who="Priam">Priam</character> and his folk, by reason of the sin of Alexander, for that
+ he put reproach upon those goddesses when they came to his steading,<lb/><action
+  intention="negative" direction="at_someone" setting="public">and gave precedence to her who
+  furthered his fatal lustfulness.</action> But when at length the twelfth morn thereafter was come,
+ then <action intention="positive" direction="at_someone" setting="public">among the immortals
+  spake</action>
+ <character who="Gods">Phoebus Apollo</character>:"Cruel are ye, O ye gods, and workers of bane.
+ Hath <character who="Hector">Hector</character> then never burned for you thighs of bulls and goats
+ without blemish?<lb/>Him now have ye not the heart to save, a corpse though he be, for his wife to
+ look upon and his mother and his child, and his father <character who="Priam">Priam</character> and
+ his people, who would forthwith burn him in the fire and pay him funeral rites. Nay, it is
+  <character who="Achilles" epithet="negative">the ruthless Achilles</character>, O ye gods, that ye
+ are fain to succour,<lb/><emotion direction="at_someone" felt="anger" appropriate="yes"
+  relationship="neutral" type="external">him whose mind is nowise right, neither the purpose in his
+  breast one that may be bent; but his heart is set on cruelty,</emotion> even as a lion that at the
+ bidding of his great might and lordly spirit goeth forth against the flocks of men to win him a
+ feast; even so hath <character who="Achilles">Achilles</character> lost all pity, neither is shame
+ in his heart,<lb/>the which harmeth men greatly and profiteth them withal. Lo, it may be that a man
+ hath lost one dearer even than was this—a brother, that the selfsame mother bare, or haply a son;
+ yet verily when he hath wept and wailed for him he maketh an end; for an enduring soul have the
+ Fates given unto men.<lb/>But this man, when he hath reft <character who="Hector"
+  epithet="positive">goodly Hector</character> of life, bindeth him behind his chariot and draggeth
+ him about the barrow of his dear comrade; in sooth neither honour nor profit shall he have
+ therefrom. Let him beware lest we wax wroth with him, good man though he be; for lo, in his fury he
+ doth foul despite unto senseless clay." <lb/>Then <emotion type="external" relationship="familial"
+  appropriate="yes" felt="anger" direction="at_someone">stirred to anger</emotion> spake to him
+  <character epithet="neutral" who="Gods"> white-armed Hera</character>:"Even this might be as thou
+ sayest, Lord of the silver bow, if indeed ye gods will vouchsafe like honour to <character
+  who="Achilles">Achilles</character> and to <character who="Hector">Hector</character>. <character
+  who="Hector">Hector</character> is but mortal and was suckled at a woman's breast, but <character
+  who="Achilles">Achilles</character> is the child of a goddess that I mine own self<lb/>fostered
+ and reared, and gave to a warrior to be his wife, even to Peleus, who was heartily dear to the
+ immortals. And all of you, O ye gods, came to her marriage, and among them thyself too didst sit at
+ the feast, thy lyre in thy hand, O thou friend of evil-doers, faithless ever."<lb/> Then <character
+  who="Gods" epithet="neutral">Zeus, the cloud-gatherer,</character>
+ <action direction="at_someone" relationship="romantic" setting="public" intention="negative"
+  >answered her</action>, and said:<lb/>"<character who="Gods">Hera</character>, be not thou utterly
+ wroth against the gods; the honour of these twain shall not be as one; howbeit <character
+  who="Hector">Hector</character> too was dearest to the gods of all mortals that are in Ilios. So
+ was he to me at least, for nowise failed he of acceptable gifts. For never was my altar in lack of
+ the equal feast,<lb/>the drink-offiering and the savour of burnt-offering, even the worship that is
+ our due. Howbeit of the stealing away of bold <character who="Hector">Hector</character> will we
+ naught; it may not be but that <character who="Achilles">Achilles</character> would be ware
+ thereof; for verily his mother cometh ever to his side alike by night and day. But I would that one
+ of the gods would call Thetis to come unto me,<lb/>that I may speak to her a word of wisdom, to the
+ end that <character who="Achilles">Achilles</character> may accept gifts from <character
+  who="Priam">Priam</character>, and give <character who="Hector">Hector</character> back." So spake
+ he, and storm-footed Iris <action direction="at_no-one" intention="positive" setting="public"
+  >hasted to bear his message</action>, and midway between Samos and rugged Imbros she leapt into
+ the dark sea, and the waters sounded loud above her.<lb/>Down sped she to the depths hike a plummet
+ of lead, the which, set upon the horn of an ox of the field, goeth down bearing death to the
+ ravenous fishes. And she found Thetis in the hollow cave, and round about her other goddesses of
+ the sea sat in a throng, and she in their midst<lb/>was wailing for the fate of her peerless son,
+ who to her sorrow was to perish in deep-soiled Troy, far from his native land. And swift-footed
+ Iris drew near, and spake to her:"Rouse thee, 0 Thetis; <character who="Gods">Zeus</character>,
+ whose counsels are everlasting, calleth thee." Then spake in answer Thetis, the silver-footed
+ goddess:<lb/>"Wherefore summoneth me that mighty god? I have shame to mingle in the company of the
+ immortals, seeing I have measurehess griefs at heart. Howbeit I will go, neither shall his word be
+ vain, whatsoever he shall speak."<lb/> So saying, the fair goddess took a dark-hued veil, than
+ which was no raiment more black,<lb/>and<action direction="at_no-one" intention="positive"
+  setting="public"> set out to go, and before her wind-footed swift Iris led the way</action>; and
+ about them the surge of the sea parted asunder. And when they had stepped forth upon the beach they
+ sped unto heaven; and they found the son of Cronos, whose voice is borne afar, and around him sat
+ gathered together all the other blessed gods that are for ever.<lb/>Then she sate her down beside
+ father <character who="Gods">Zeus</character>, and <character who="Gods">Athene</character> gave
+ place. And <character who="Gods">Hera</character> set in her hand a fair golden cup, and spake
+ words of cheer.; and Thetis drank, and gave back the cup. Then among them <action
+  direction="at_someone" intention="positive" setting="public">the father of men and gods was first
+  to speak</action>:"Thou art come to Olympus, 0, goddess Thetis,<lb/>for all thy sorrow, though
+ thou hast comfortless grief at heart; I know it of myself; yet even so will I tell thee wherefore I
+ called thee hither. For nine days' space hath strife arisen among the immortals as touching the
+ corpse of <character who="Hector">Hector</character> and <character who="Achilles"
+  epithet="negative">Achilles, sacker of cities</character>. They are for bestirring the
+ keen-sighted Argeiphontes to steal the body away,<lb/>yet herein do I accord honour unto <character
+  who="Achilles">Achilles</character>; for I would fain keep in time to come thy worship and thy
+ love. Haste thee with all speed to the host and declare unto thy son my bidding. Say unto him
+  <action direction="at_someone" intention="negative" setting="public">that the gods are angered
+  with him</action>, and that <emotion direction="at_someone" appropriate="yes" type="external"
+  felt="wrath">I above all immortals am filled with wrath</emotion>, for that in the fury of his
+ heart<lb/>he holdeth <character who="Hector">Hector</character> at the beaked ships and gave him
+ not back, if so be he may be seized with fear of me and give <character who="Hector"
+  >Hector</character> back. But I will send forth Iris unto <character who="Priam"
+  epithet="positive">great-hearted Priam</character>, to bid him go to the ships of the Achaeans to
+ ransom his dear son, and <action direction="at_someone" intention="positive" setting="public">to
+  bear gifts</action> unto <character who="Achilles">Achilles</character> which shall make glad his heart."<lb/>
+ <lb/>So spake he, and the goddess, silver-footed Thetis, failed not to hearken, <action
+  direction="at_no-one" intention="positive" setting="public">but went darting down from the peaks
+  of Olympus, and came to the hut of her son.</action> There she found him <action
+  direction="at_no-one" intention="negative" setting="private">groaning ceaselessly</action>, and
+ round about him his dear comrades with busy haste were making ready their early meal,<lb/>and in
+ the hut a ram, great and shaggy, lay slaughtered for them. Then she,<action direction="at_someone"
+  intention="positive" setting="public">his queenly mother, sate her down close by his side and
+  stroked him with her hand, and spake, and called him by name</action>:"My child, how long wilt
+ thou devour thine heart with weeping and sorrowing, and wilt take no thought of food,<lb/>neither
+ of the couch? Good were it for thee even to have dalliance in a woman's embrace. For, I tell thee,
+ thou shalt not thyself be long in life, but even now doth death stand hard by thee and mighty fate.
+ But hearken thou forthwith unto me, for I am a messenger unto thee from Zeus. He declareth that
+ that <emotion felt="anger" type="external" appropriate="yes" direction="at_someone">the gods are
+  angered with thee</emotion>,<lb/>and that <emotion direction="at_someone" appropriate="yes"
+  type="external" felt="wrath">himself above all immortals is filled with wrath</emotion>, for that
+ in the fury of thine heart thou holdest <character who="Hector">Hector</character> at the beaked
+ ships, and gavest him not back. Nay come, give him up, and take ransom for the dead." Then in
+ answer to her spake <character who="Achilles" epithet="positive">Achilles, swift of
+  foot</character>: "So let it be; whoso bringeth ransom, let him bear away the dead,<lb/>if verily
+ with full purpose of heart the Olympian himself so biddeth." On this wise amid the gathering of the
+ ships mother and son spake many winged words one to the other, but the son of Cronos sent forth
+ Iris to sacred Ilios:"Up, go, swift Iris; leave thou the abode of Olympus<lb/>and bear tidings
+ within Ilios unto <character epithet="positive" who="Priam">great-hearted Priam</character> that he
+ go to the ships of the Achaeans to ransom his dear son, and that <action direction="at_someone"
+  intention="positive" setting="public">he bear gifts</action> unto <character who="Achilles"
+  >Achilles</character> which shall make glad his heart; alone let him go, neither let any man
+ beside of the Trojans go with him. A herald may attend him, an elder man,<lb/>to guide the mules
+ and the light-running waggon, and to carry back to the city the dead, even him that <character
+  who="Achilles">Achilles</character> slew. Let not death be in his thoughts. neither any fear; such
+ a guide will we give him, even Argeiphontes, who shall lead him, until in his leading he bring him
+ nigh to <character who="Achilles">Achilles</character>.<lb/>And when he shall have led him into the
+ hut, neither shall <character who="Achilles">Achilles</character> himself slay him nor suffer any
+ other to slay; for not without wisdom is he, neither without purpose, nor yet hardened in sin; nay,
+ with all kindliness will he spare a suppliant man."<lb/> So spake he, and storm-footed Iris hasted
+ to bear his message.<lb/>She came to the house of <character who="Priam">Priam</character>, and
+ found therein <action direction="at_no-one" intention="negative" setting="private">clamour and
+  wailing</action>. His <action direction="at_no-one" intention="negative" setting="private">sons
+  sat about their father within the court sullying their garments with their tears, and in their
+  midst was the old king close-wrapped in his mantle; and upon the old man's head and neck was filth
+  in abundance</action>,<lb/>which he had gathered in his hands as he grovelled on the earth. And
+  <action direction="at_no-one" intention="negative" setting="private">his daughters and his sons'
+  wives were wailing throughout the house</action>, bethinking them of the warriors many and valiant
+ who were lying low, slain by the hands of the Argives. And the messenger of Zeus drew nigh to
+  <character who="Priam">Priam</character>, and spake to him;<lb/>softly she uttered her voice, yet
+ trembling gat hold of his himbs:"Be of good courage, O <character who="Priam" epithet="neutral"
+  >Priam, son of Dardanus</character>, and fear thou not at all. Not to forbode any evil to thee am
+ I come hither, but with good intent. I am a messenger to thee from <character who="Gods"
+  >Zeus</character>, who far away though he be, hath exceeding care for thee and pity.<lb/>The
+ Olympian biddeth thee ransom goodly <character who="Hector">Hector</character>, and <action
+  direction="at_someone" intention="positive" setting="public">bear gifts to</action>
+ <character who="Achilles">Achilles</character> which shall make glad his heart; alone do thou go,
+ neither let any man beside of the Trojans go with thee. A herald may attend thee, an elder man, to
+ guide the mules and the light-running waggon,<lb/>and to carry back to the city the dead, even him
+ that <character who="Achilles">Achilles</character> slew. Let not death be in thy thoughts, neither
+ any fear; such a guide shall go with thee, even Argeiphontes, who shall lead thee, until in his
+ heading he bring thee nigh to <character who="Achilles">Achilles</character>. And when he shall
+ have led thee into the hut,<lb/>neither shall <character who="Achilles">Achilles</character>
+ himself slay thee nor suffer any other to slay; for not without wisdom is he, neither without
+ purpose, nor yet hardened in sin; nay, with all kindliness will he spare a suppliant man." When she
+ had thus spoken swift-footed Iris departed; but the king bade his sons<lb/>make ready the running
+ mule waggon, and bind the wicker box thereon. And himself <action setting="private"
+  intention="positive" direction="at_no-one">he went down to the vaulted treasure-chamber</action>,
+ fragrant of cedar wood and high of roof, that held jewels full many: and he called to him Hecabe
+ his wife, and spake:"Lady, from <character who="Gods">Zeus</character> hath an Olympian messenger
+ come to me,<lb/>that I go to the ships of the Achaeans to ransom my dear son, and that I bear gifts
+ to <character who="Achilles">Achilles</character> which shall make glad his heart. But come, tell
+ me this, how seemeth it to thy mind? For as touching mine own self, wondrously doth the desire of
+ my heart bid me go thither to the ships, into the wide camp of the Achaeans."<lb/>
+ <lb/>So spake he, but <action intention="negative" direction="at_someone" setting="private">his
+  wife uttered a shrill cry, and spake in answer</action>:"Ah, woe is me, whither now is gone the
+ wisdom for the which of old thou wast famed among stranger folk and among them thou rulest? How art
+ thou fain to go alone to the ships of the Achaeans to meet the eyes of the man who<lb/>hath slain
+ thy sons, many and valiant? Of iron verily is thy heart. For if so be he get thee in his power and
+ his eyes behold thee, so savage and faithless is the man, he will neither pity thee nor anywise
+ have reverence. Nay, let us now make our lament afar from him we mourn, abiding here in the hall.
+ On this wise for him did mighty Fate spin<lb/>with her thread at his birth, when myself did bear
+ him, that he should glut swift-footed dogs far from his parents, in the abode of a violent man, in
+ whose inmost heart I were fain to fix my teeth and feed thereon; then haply might deeds of requital
+ be wrought for my son, seeing in no wise while playing the dastard was he slain of him,<lb/>but
+ while standing forth in defence of the men and deep-bosomed women of Troy, with no thought of
+ shelter or of flight." Then <action setting="private" intention="positive" direction="at_someone"
+  >in answer spake unto her the old man</action>, <character who="Priam" epithet="positive">god-like
+  Priam</character>:"Seek not to stay me that am fain to go, neither be thyself a bird of ill-boding
+ in my halls; thou shalt not persuade me.<lb/>For if any other of the men that are upon the face of
+ the earth had bidden me this, whether of seers that divine from sacrifice or of priests, a false
+ thing might we deem it, and turn away therefrom the more; but now—for myself I heard the voice of
+ the goddess and looked upon her face—I will go forth, neither shall her word be vain. And if it be
+ my fate<lb/>to lie dead by the ships of the brazen-coated Achaeans, so would I have it; forthwith
+ let <character who="Achilles">Achilles</character>
+ <action direction="at_someone" intention="negative" setting="public">slay me, when once I have
+  clasped in my arms my son, and have put from me the desire for wailing</action>."<lb/> He spake,
+ and opened the goodly lids of chests, wherefrom he took twelve beauteous robes<lb/>and twelve
+ cloaks of single fold, and as many coverlets, and as many white mantles, and therewithal as many
+ tunics. And of gold he weighed out and bare forth talents, ten in all, and two gleaming tripods,
+ and four cauldrons, and a cup exceeding fair, that the men of Thrace had given him<lb/><action
+  setting="public" intention="negative" direction="at_someone">when he went thither on an embassage,
+  a great treasure; not even this did the old man spare in his halls, for he was exceeding fain to
+  ransom his dear son.</action> Then drave he all the Trojans from out the portico, and chid them
+ with words of reviling:"Get ye hence, wretches, ye that work me shame!<lb/>Have ye not also
+ lamentation at home, that ye come hither to vex me? Count ye it not enough that <character
+  who="Gods" epithet="neutral">Zeus, son of Cronos</character>, hath brought this sorrow upon me,
+ that I should lose my son the best of all? Nay, but yourselves too shall know it, for easier shall
+ ye be, now he is dead, for the Achaeans to slay.<lb/>But for me, or ever mine eyes behold the city
+ sacked and laid waste, may I go down into the house of <character who="Gods">Hades</character>." He
+ spake, and plying his staff went among the men, and they went forth from before the old man in his
+ haste. Then called he aloud to his sons, chiding Helenus and Paris and goodly Agathon<lb/>and
+ Pammon and Antiphonus and Polites, good at the war-cry, and Deiphobus and Hippothous and lordly
+ Dius. To these nine the old man called aloud, and gave command:"Haste ye, base children that are my
+ shame; would that ye all together in <character who="Hector">Hector</character>'s stead had been
+ slain at the swift ships!<lb/>Woe is me, that am all unblest, seeing that I begat sons the best in
+ the broad land of Troy, yet of them I avow that not one is left, not godlike Nestor, not Troilus
+ the warrior charioteer, not <character who="Hector">Hector</character> that was a god among men,
+ neither seemed he as the son of a mortal man, but of a god:<lb/>all them hath Ares slain, yet these
+ things of shame are all left me, false of tongue, nimble of foot, peerless at beating the floor in
+ the dance, robbers of lambs and kids from your own folk. <action direction="at_someone"
+  intention="positive" setting="public">Will ye not make me ready a waggon, and that with speed, and
+  lay all these things therein, that we may get forward on our way?</action>"<lb/>
+</book>
