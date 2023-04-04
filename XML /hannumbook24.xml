@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="UPDATEDSCHEMA.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../Schema/UPDATEDSCHEMA.rnc" type="application/relax-ng-compact-syntax"?>
 <book>
  <lb></lb>And the old man, <character epithet="positive" who="Priam">godlike Priam</character>, answered him: "If thou art indeed a squire of <character epithet="neutral" who="Achilles">Achilles, Peleus' son</character>
  come now, tell me all the truth, whether <character who="Hector">my son</character> is even yet by the ships or whether by
