@@ -22,20 +22,29 @@
     </xsl:template>
     
     <xsl:template match="character">
-        <span class="character">
+        <span class="character hoverable">
             <xsl:apply-templates/>
+        </span>
+        <span class="char_hover">
+          <xsl:value-of select="@placeholder"/> 
         </span>
     </xsl:template>
     
     <xsl:template match="action">
-        <span class="action">
+        <span class="action hoverable">
             <xsl:apply-templates/>
+        </span>
+        <span class="act_hover">
+            <xsl:value-of select="@placeholder"/> 
         </span>
     </xsl:template>
     
     <xsl:template match="emotion">
-        <span class="emotion">
+        <span class="emotion hoverable">
             <xsl:apply-templates/>
+        </span>
+        <span class="emot_hover">
+            <xsl:value-of select="@placeholder"/> 
         </span>
     </xsl:template>
     
