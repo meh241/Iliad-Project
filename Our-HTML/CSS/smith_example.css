@@ -1,6 +1,7 @@
 body {
     background-color: #EDEBD7;
     color: #352208;
+    padding: 10px 40px;
 }
 
 .navbar {
@@ -42,7 +43,9 @@ h2 {
 h3 {
     padding: 10px 40px;
 }
-
+.smallheader {
+    padding: 10px 40px;
+}
 img {
     padding: 10px 40px;
 }
