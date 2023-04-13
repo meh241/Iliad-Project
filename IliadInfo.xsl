@@ -26,7 +26,7 @@
             <xsl:apply-templates/>
         </span>
         <span class="char_hover">
-          <xsl:value-of select="@placeholder"/> 
+          <xsl:value-of select="@who"/> 
         </span>
     </xsl:template>
     
@@ -35,7 +35,7 @@
             <xsl:apply-templates/>
         </span>
         <span class="act_hover">
-            <xsl:value-of select="@placeholder"/> 
+            <xsl:value-of select="@intention"/> 
         </span>
     </xsl:template>
     
@@ -44,7 +44,7 @@
             <xsl:apply-templates/>
         </span>
         <span class="emot_hover">
-            <xsl:value-of select="@placeholder"/> 
+            <xsl:value-of select="@felt"/> 
         </span>
     </xsl:template>
     
