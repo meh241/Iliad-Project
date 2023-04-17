@@ -1,3 +1,53 @@
-example {
-    
+body {
+    background-color: #EDEBD7;
+    color: #352208;
+    padding: 10px 40px;
+}
+
+.navbar {
+    background-color: #352208;
+    overflow: hidden;
+}
+
+.navbar a {
+    float: left;
+    color: #EDEBD7;
+    text-align: center;
+    padding: 18px 20px;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.navbar a:hover {
+    background-color: #5E0818;
+    color: #EDEBD7;
+}
+
+.navbar a:active {
+    background-color: #C36F09;
+    color: #EDEBD7;
+}
+
+.character_hoverable {
+    background-color: #5E0818;
+    color: #EDEBD7;
+    opacity: 0.5;
+}
+
+.char_hover {
+    background-color: #5E0818;
+    color: #EDEBD7;
+    opacity: 0.5;
+}
+
+.emotion_hover {
+    background-color: #5E0818;
+    color: #EDEBD7;
+    opacity: 0.5;
+}
+
+.emot_hover {
+    background-color: #5E0818;
+    color: #EDEBD7;
+    opacity: 0.5;
 }
