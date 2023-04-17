@@ -22,7 +22,7 @@
     </xsl:template>
     
     <xsl:template match="character">
-        <span class="character hoverable">
+        <span class="character_hoverable">
             <xsl:apply-templates/>
         </span>
         <span class="char_hover">
@@ -31,7 +31,7 @@
     </xsl:template>
     
     <xsl:template match="action">
-        <span class="action hoverable">
+        <span class="action_hoverable">
             <xsl:apply-templates/>
         </span>
         <span class="act_hover">
@@ -40,7 +40,7 @@
     </xsl:template>
     
     <xsl:template match="emotion">
-        <span class="emotion hoverable">
+        <span class="emotion_hoverable">
             <xsl:apply-templates/>
         </span>
         <span class="emot_hover">
