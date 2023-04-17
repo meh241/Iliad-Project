@@ -28,25 +28,25 @@ body {
     color: #EDEBD7;
 }
 
-.character_hoverable {
+.character_hoverable a:hover {
     background-color: #5E0818;
     color: #EDEBD7;
     opacity: 0.5;
 }
 
-.char_hover {
+.char_hover a:hover {
     background-color: #5E0818;
     color: #EDEBD7;
     opacity: 0.5;
 }
 
-.emotion_hover {
+.emotion_hover a:hover {
     background-color: #5E0818;
     color: #EDEBD7;
     opacity: 0.5;
 }
 
-.emot_hover {
+.emot_hover a:hover {
     background-color: #5E0818;
     color: #EDEBD7;
     opacity: 0.5;
