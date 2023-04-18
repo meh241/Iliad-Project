@@ -28,17 +28,25 @@ body {
     color: #EDEBD7;
 }
 
-.character_hoverable :hover {
-    background-color: #5E0818;
-    color: #EDEBD7;
-    opacity: 0.5;
+/* hover classes initially hidden, visible when hovering over character_hoverable. Need to figure out positioning. */
+
+.char_hover {
+    visibility: hidden;
 }
 
-.char_hover :hover {
+.character_hoverable:hover + .char_hover {
     background-color: #5E0818;
     color: #EDEBD7;
     opacity: 0.5;
+    visibility: visible;
+    position:relative;
 }
+
+/*  .char_hover:hover {
+    background-color: #5E0818;
+    color: #EDEBD7;
+    opacity: 0.5;
+}*/
 
 .emotion_hover :hover {
     background-color: #5E0818;
