@@ -28,26 +28,61 @@ body {
     color: #EDEBD7;
 }
 
+/* hover classes initially hidden, visible when hovering over character_hoverable. Need to figure out positioning. */
+
 .character_hoverable {
-    background-color: #5E0818;
+    background-color: #8b0000;
     color: #EDEBD7;
-    opacity: 0.5;
 }
 
 .char_hover {
-    background-color: #5E0818;
-    color: #EDEBD7;
-    opacity: 0.5;
+    visibility: hidden;
 }
 
-.emotion_hover {
+.character_hoverable:hover + .char_hover {
     background-color: #5E0818;
     color: #EDEBD7;
     opacity: 0.5;
+    visibility: visible;
+    position: relative;
+}
+
+/*  .char_hover:hover {
+    background-color: #5E0818;
+    color: #EDEBD7;
+    opacity: 0.5;
+}*/
+
+.emotion_hoverable {
+    background-color: #013220;
+    color: #EDEBD7;
+}
+
+.emotion_hoverable:hover + .emot_hover {
+    background-color: #013220;
+    color: #EDEBD7;
+    opacity: 0.5;
+    visibility: visible;
+    position: relative;
 }
 
 .emot_hover {
-    background-color: #5E0818;
+    visibility: hidden;
+}
+
+.action_hoverable {
+    background-color: #000080;
+    color: #EDEBD7;
+}
+
+.action_hoverable:hover + .act_hover {
+    background-color: #000080;
     color: #EDEBD7;
     opacity: 0.5;
+    visibility: visible;
+    position: relative;
+}
+
+act_hover {
+    visibility: hidden;
 }
