@@ -10,7 +10,7 @@
     <xsl:variable name="bar_height" as="xs:double" select="18"/>
     <xsl:variable name="spacing" as="xs:double" select="$bar_height div 2"/>
     <xsl:variable name="max_height" as="xs:double"
-        select="($bar_height + $spacing) * count(//emotion) + 9"/>
+        select="($bar_height + $spacing) * count(//emotion/distinct-values(@felt)) + 9"/>
     <xsl:variable name="half_width" as="xs:double" select="250"/>
     <xsl:variable name="max_width" as="xs:double" select="$half_width * 2"/>
     <xsl:variable name="xscale" as="xs:double" select="5"/>
@@ -46,9 +46,11 @@
                     <line y1="0" y2="{$max_height}" x1="{$pos}" x2="{$pos}" stroke="black"
                         opacity=".5"/> </xsl:for-each>              
                 <!--Generating Bars -->
-                <xsl:for-each-group select="//emotion/@type" group-by="." >
-                    <rect width="300" height="100" style="fill:rgb(0,0,255);stroke-width:3;stroke:rgb(0,0,0)">Internal</rect>
-                    <rect width="300" height="100" style="fill:rgb(0,0,255);stroke-width:3;stroke:rgb(0,0,0)">Extrenal</rect>
+                <xsl:for-each-group select="//emotion/@felt" group-by="." >
+                    <xsl:variable name="internal-length" as="xs:double" select="count(//emotion[@felt=current-grouping-key() and @type='internal'])"/>
+                    <xsl:variable name="external-length" as="xs:double" select="count(//emotion[@felt=current-grouping-key() and @type='external'])"/>
+                    <rect width="{$internal-length*10}" height="100" x="0" y="100" style="fill:rgb(0,0,255);stroke-width:3;stroke:rgb(0,0,0)">Internal</rect>
+                    <rect width="{$external-length*10}" height="100" x="-{$external-length*10}" y="100" style="fill:rgb(0,0,255);stroke-width:3;stroke:rgb(0,0,0)">Extrenal</rect>
                 </xsl:for-each-group>
                 
                 
