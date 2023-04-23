@@ -15,7 +15,7 @@
                     desire of wailing.<lb/>Wetted were the sands
                     and wetted the armour of the warriors with their tears; so mighty a deviser of
                     rout was he for whom they mourned. And among them the son of Peleus was leader
-                    in the vehement <emotion type="external" felt="lament" appropriate="yes" direction="at_someone" relationship="romantic" >lamentation</emotion>; <action intention="positive" setting="public" direction="at_someone" relationship="romantic" >laying his man-slaying hands</action> upon the breast of his
+                    in the vehement <emotion type="external" felt="lament" appropriaste="yes" direction="at_someone" relationship="romantic" >lamentation</emotion>; <action intention="positive" setting="public" direction="at_someone" relationship="romantic" >laying his man-slaying hands</action> upon the breast of his
                     comrade: "Hail, I bid thee, O <character who="Patroclus">Patroclus</character>, even in the house of
                             <character who="Gods">Hades</character>,<lb/>for even now I am bringing
                         to fulfillment all that aforetime I promised thee: that I would drag <character who="Hector">Hector</character>
@@ -1052,9 +1052,8 @@
     the warrior charioteer, not <character who="Hector">Hector</character> that was a god among men,
     neither seemed he as the son of a mortal man, but of a god:<lb/>all them hath Ares slain, yet these
     things of shame are all left me, false of tongue, nimble of foot, peerless at beating the floor in
-    the dance, robbers of lambs and kids from your own folk. <action direction="at_someone"
-        intention="positive" setting="public">Will ye not make me ready a waggon, and that with speed, and
-        lay all these things therein, that we may get forward on our way?</action>"<lb/><lb></lb>And the old man, <character epithet="positive" who="Priam">godlike Priam</character>, answered him: "If thou art indeed a squire of <character epithet="neutral" who="Achilles">Achilles, Peleus' son</character>
+    the dance, robbers of lambs and kids from your own folk. Will ye not make me ready a waggon, and that with speed, and
+        lay all these things therein, that we may get forward on our way?"<lb/><lb></lb>And the old man, <character epithet="positive" who="Priam">godlike Priam</character>, answered him: "If thou art indeed a squire of <character epithet="neutral" who="Achilles">Achilles, Peleus' son</character>
     come now, tell me all the truth, whether <character who="Hector">my son</character> is even yet by the ships or whether by
     now <character who="Achilles">Achilles</character> hath <action intention="negative" direction="at_someone" setting="public">hewn him limb from limb and cast him before his dogs.</action>" <lb/>Then again the
     messenger Argeiphontes spake to him:"Old sire, <action intention="negative" setting="public" direction="at_someone">not yet have dogs and birds devoured him, but still
@@ -1095,18 +1094,18 @@
     thus openly be entertained of mortals.<lb/>But go thou in,<action direction="at_someone" intention="positive" relationship="enemies" setting="private"> and clasp the knees of the <character who="Achilles" epithet="neutral"> Achilles, son of Peleus</character>
         and entreat him by his father and his fair-haired mother and his child, that thou mayest stir his
         soul."</action><lb/> So spake <character who="Gods">Hermes</character>, and departed unto high Olympus; and <character who="Priam">Priam</character> leapt from his chariot to
-    the ground,<lb/>and left there Idaeus, who abode holding the horses and mules; <action intention="positive" setting="private" direction="at_someone" relationship="enemies">but <character who="Priam">the old man</character> went
-        straight toward the house where <character who="Achilles" epithet="positive">Achilles, dear to Zeus</character>, was wont to sit.</action> Therein he found <character who="Achilles">Achilles</character>>,
+    the ground,<lb/>and left there Idaeus, who abode holding the horses and mules; but <character who="Priam">the old man</character> went
+        straight toward the house where <character who="Achilles" epithet="positive">Achilles, dear to Zeus</character>, was wont to sit. Therein he found <character who="Achilles">Achilles</character>>,
     but his comrades sat apart: two only, the warrior Automedon and Alcimus, scion of <character who="Gods">Ares</character>,<lb/>waited
     busily upon him; <action relationship="romantic" direction="at_no-one" setting="private" intention="negative">and he was newly ceased from meat, even from eating and drinking, and the table
-        yet stood by his side</action>. <action intention="positive" setting="private" direction="at_someone" relationship="enemies"><emotion appropriate="yes" felt="fear" type="external" direction="at_someone" relationship="enemies"
+        yet stood by his side</action>. <emotion appropriate="yes" felt="fear" type="external" direction="at_someone" relationship="enemies"
             >Unseen of these <character who="Priam" epithet="positive">great Priam </character>entered in, and coming close to <character who="Achilles">Achilles</character>,
-            clasped in his hands his knees, and kissed his hands, the terrible, man-slaying hands that had
-            slain his many sons.</emotion></action><lb/>And as when sore blindness of heart cometh upon a man, that in his own
+            <action intention="positive" setting="private" direction="at_someone" relationship="enemies">clasped in his hands his knees, and kissed his hands, the terrible, man-slaying hands that had
+            slain his many sons</action>.</emotion><lb/>And as when sore blindness of heart cometh upon a man, that in his own
     country slayeth another and escapeth to a land of strangers, to the house of some man of substance,
     <action relationship="enemies" direction="at_someone" setting="private" intention="positive"> and wonder holdeth them that look upon him; <emotion type="internal" felt="wonder" direction="at_someone" relationship="enemies" appropriate="yes" >even so was <character who="Achilles">Achilles</character> seized with wonder</emotion> at sight of
         <character who="Priam" epithet="positive">godlike Priam</character>, and <emotion felt="wonder" direction="at_someone" relationship="enemies" type="internal" appropriate="yes">seized with wonder were the others likewise</emotion>, and they glanced one at the
-        other.<lb/>But Priam made entreaty, and spake to him, saying: "Remember thy father, O <character who="Achilles" epithet="positive">Achilles like
+        other.<lb/>But Priam made entreaty, and spake to him, saying: "Remember thy father</action>, O <character who="Achilles" epithet="positive">Achilles like
             to the gods</character>, whose years are even as mine, on the grievous threshold of old age. Him full likely
         the dwellers that be round about are entreating evilly, neither is there any to ward from him ruin
         and bane.<lb/>Howbeit, while he heareth of thee as yet alive he hath joy at heart, and therewithal
@@ -1115,36 +1114,36 @@
         left.<lb/>Fifty I had, when the sons of the Achaeans came; nineteen were born to me of the
         self-same womb, and the others women of the palace bare. Of these, many as they were, furious <character who="Gods">Ares</character>
         hath loosed the knees, and he that alone was left me, that by himself guarded the city and the
-        men,<lb/>him thou slewest but now as he fought for his country, even <character who="Hector">Hector.</character> </action>
+        men,<lb/>him thou slewest but now as he fought for his country, even <character who="Hector">Hector.</character> 
     <action intention="positive" relationship="familial" direction="at_no-one" setting="private"> For his sake am I now
-        come to the ships of the Achaeans to win him back from thee, and I bear with me ransom past
-        counting. Nay, have thou awe of the gods, <character who="Achilles">Achilles</character>, and </action><action direction="at_someone" relationship="neutral" intention="positive" setting="private">take pity on me, remembering thine own
+        come to the ships of the Achaeans to win him back from thee</action>, and I bear with me ransom past
+        counting. Nay, have thou awe of the gods, <character who="Achilles">Achilles</character>, and <action direction="at_someone" relationship="neutral" intention="positive" setting="private">take pity on me, remembering thine own
             father. Lo, I am more piteous far than he,<lb/>and have endured what no other mortal on the face of
-            earth hath yet endured, to reach forth my hand to the face of him that hath slain my sons."</action><lb/> <action setting="private" intention="positive" relationship="neutral" direction="at_someone">So
-                spake he, and in <character who="Achilles">Achilles</character>"> he roused desire<emotion direction="at_someone" relationship="familial" type="external" felt="lament" appropriate="yes"> to weep for his father</emotion>; and he took the <character who="Priam">old man</character> by the
-                hand, and gently put him from him. So the twain bethought them of their dead, and wept; the one for
+            earth hath yet endured, to reach forth my hand to the face of him that hath slain my sons."</action><lb/> So
+                spake he, and in <character who="Achilles">Achilles</character>"> <action setting="private" intention="positive" relationship="neutral" direction="at_someone">he roused desire<emotion direction="at_someone" relationship="familial" type="external" felt="lament" appropriate="yes"> to weep for his father</emotion>; and he took the <character who="Priam">old man</character> by the
+                hand, and gently put him from him. So the twain bethought them of their dead, and wept</action>; the one for
                 <character who="Hector" epithet="neutral">man-slaying Hector</character> wept sore,<lb/>the while he grovelled at <character who="Achilles">Achilles</character>' feet, but <character who="Achilles">Achilles</character> wept for
                 <emotion appropriate="yes" type="internal" felt="lament" relationship="familial" direction="at_someone"> his own father</emotion>, and <emotion direction="at_someone" relationship="romantic" felt="lament" type="internal" appropriate="yes">now again for <character who="Patroclus"> Patroclus </character></emotion>; and the sound of their moaning went up through the
                 house. But when goodly <character who="Achilles">Achilles</character> had had his fill of lamenting, and the longing therefor had
                 departed from his heart and limbs,<lb/>forthwith then he sprang from his seat, and raised the old
                 man by his hand, pitying his hoary head and hoary beard; and he spake and addressed him with winged
-                words:"</action> Ah, unhappy man, full many in good sooth are the evils thou hast endured in thy soul. <action relationship="neutral" direction="at_no-one" intention="positive" setting="private">How
+                words:" Ah, unhappy man, full many in good sooth are the evils thou hast endured in thy soul.How
                     hadst thou the heart to come alone to the ships of the Achaeans,<lb/>to meet the eyes of me that
                     have slain thy sons many and valiant? Of iron verily is thy heart. But come, sit thou upon a seat,
                     and our sorrows will we suffer to lie quiet in our hearts, despite our pain; for no profit cometh
-                    of chill lament.</action><lb/><action intention="negative" direction="at_someone" setting="private">For on this wise have the gods spun the thread for wretched mortals, that they
+                    of chill lament.<lb/>For on this wise have the gods spun the thread for wretched mortals, that they
                         should live in pain; and themselves are sorrowless. For two urns are set upon the floor of <character who="Gods">Zeus</character> of
                         gifts that he giveth, the one of ills, the other of blessings. To whomsoever <character who="Gods" epithet="neutral">Zeus, that hurleth the
                             thunderbolt,</character> giveth a mingled lot,<lb/>that man meeteth now with evil, now with good; but to
                         whomsoever he giveth but of the baneful, him he maketh to be reviled of man, and direful madness
                         driveth him over the face of the sacred earth, and he wandereth honoured neither of gods nor
-                        mortals.</action> Even so unto Peleus did the gods give glorious gifts<lb/>from his birth; for he excelled
+                        mortals. Even so unto Peleus did the gods give glorious gifts<lb/>from his birth; for he excelled
     all men in good estate and in wealth, and was king over the Myrmidons, and to him that was but a
     mortal the gods gave a goddess to be his wife.<lb/>Howbeit even upon him the gods brought evil, in
     that there nowise sprang up in his halls offspring of princely sons, but he begat one only son,
     doomed to an untimely fate. Neither may I tend him as he groweth old, seeing that far, far from
     mine own country I abide in the land of Troy, vexing thee and thy children. And of thee, old sire,
-    <action intention="positive" setting="private" direction="at_someone"> we hear that of old thou wast blest</action>; how of all that toward the sea Lesbos, the seat of Macar,
+     we hear that of old thou wast blest; how of all that toward the sea Lesbos, the seat of Macar,
     encloseth,<lb/>and Phrygia in the upland, and the boundless Hellespont, over all these folk, men
     say, thou, old sire, wast preeminent by reason of thy wealth and thy sons. Howbeit from the time
     when the heavenly gods brought upon thee this bane, ever around thy city are battles and slayings
@@ -1152,9 +1151,9 @@
         <emotion felt="lament" appropriate = "yes" direction="at_someone" type="internal">grieving for thy son,<lb/>neither wilt thou bring him back to life</emotion></action>; ere that shalt thou suffer some
     other ill."<lb/> <action intention="positive" setting="private" direction="at_someone">And the old man, <character who="Priam" epithet="positive">godlike Priam</character>, answered him:</action> "Seat me not anywise upon a chair, O
     <character who="Achilles">Achilles thou fostered of Zeus</character>, so long as <character who="Hector">Hector</character> <action intention="negative" direction="at_someone" setting="public" relationship="enemies">lieth uncared-for amid the huts</action>;<lb/><action intention="positive" relationship="neutral" direction="at_someone" setting="private">nay, give him back
-        with speed, that mine eyes may behold him; and do thou accept the ransom, the great ransom, that we
+        with speed</action>, that mine eyes may behold him; and do thou accept the ransom, the great ransom, that we
         bring. So mayest thou have joy thereof, and come to thy native land, seeing that from the first
-        thou hast spared me.</action>" <action relationship="enemies" intention="negative" setting="private" direction="at_someone">Then with an angry glance from beneath his brows spake to him<character who="Achilles">Achilles</character> swift
+        thou hast spared me." <action relationship="enemies" intention="negative" setting="private" direction="at_someone">Then with an angry glance from beneath his brows spake to him<character who="Achilles">Achilles</character> swift
             of foot:</action><lb/>"Provoke me no more, old sir; I am minded even of myself to give <character who="Hector">Hector</character> back to thee;
     >>>>>>> fe9cb1715465256b0366eb238d50024609697b43
     for from <character who="Gods">Zeus</character> there came to me a messenger, even <character who="Gods">the mother that bare me</character>, daughter of the <character who="Gods">old man
@@ -1169,10 +1168,10 @@
     dead <character who="Patroclus"> Patroclus </character>. These then loosed from beneath the yoke the horses and mules, and led within the
     herald, the crier of the old king, <action direction="at_someone" relationship="enemies" setting="private" intention="negative">and set him on a chair;</action> and from the wain of goodly felloes they
     took the countless ransom for Hector's head.<lb/>But they left there two robes and a fair-woven
-    tunic, to the end that <character who="Achilles">Achilles</character><action intention="positive" setting="private" relationship="enemies" direction="at_someone"> might enwrap the dead therein and so give him to be borne to his
-        home</action>. Then <character who="Achilles">Achilles</character> called forth the hand-maids and bade them wash and anoint him, bearing him to a
-    place apart that <character who="Priam">Priam</character> might not have sight of his son, lest in grief of heart he should not
-    restrain his wrath,<lb/>whenso he had sight of his son, and <character who="Achilles">Achilles</character>' own spirit be stirred to
+    tunic, to the end that <character who="Achilles">Achilles</character>might enwrap the dead therein and so give him to be borne to his
+        home. Then <character who="Achilles">Achilles</character> called forth the hand-maids and bade them wash and anoint him, bearing him to a
+    place apart that <character who="Priam">Priam</character> might not have sight of his son,<action setting="private" relationship="enemies" intention="positive" direction="at_someone">lest in grief of heart he should not
+    restrain his wrath</action>,<lb/>whenso he had sight of his son, and <character who="Achilles">Achilles</character>' own spirit be stirred to
     anger, and he slay him, and so sin against the behest of Zeus. <action direction="at_someone" relationship="enemies" setting="private" intention="positive">So when the handmaids had washed the
         body and anointed it with oil, and had cast about it a fair cloak and a tunic, then <character who="Achilles">Achilles</character>
         himself lifted it and set it upon a bier,<lb/>and his comrades with him lifted it upon the polished
@@ -1193,13 +1192,13 @@
     and Niobe bethought her of meat, for she was wearied with the shedding of tears. And now somewhere
     amid the rocks, on the lonely mountains,<lb/>on Sipylus, where, men say, are the couching-places of
     goddesses, even of the nymphs that range swiftly in the dance about Achelous, there, albeit a
-    stone, she broodeth over her woes sent by the gods. <action intention="positive" setting="private" relationship="neutral" direction="at_someone"><emotion direction="at_someone" relationship="neutral" felt="lament" type="external" appropriate="yes" >But come, let us twain likewise, noble old
-        sire, bethink us of meat; and thereafter shalt thou make lament over thy dear son,<lb/>when thou
-        hast borne him into Ilios; mourned shall he be of thee many tears."</emotion></action> <action relationship="neutral" direction="at_no-one" setting="private" intention="positive">Therewith <character who="Achilles" epithet="neutral">swift Achilles</character> sprang
+    stone, she broodeth over her woes sent by the gods. <emotion direction="at_someone" relationship="neutral" felt="lament" type="external" appropriate="yes" >But come, let us twain likewise, noble old
+        sire, bethink us of meat; and thereafter shalt <action intention="positive" setting="private" relationship="neutral" direction="at_someone">thou make lament over thy dear son </action>,<lb/>when thou
+        hast borne him into Ilios; mourned shall he be of thee many tears."</emotion> Therewith <character who="Achilles" epithet="neutral">swift Achilles</character> sprang
             up, and slew a white-fleeced sheep, and his comrades flayed it and made it ready well and duly, and
             sliced it cunningly and spitted the morsels, and roasted them carefully and drew all off the
             spits.<lb/>And Automedon took bread and dealt it forth on the table in fair baskets, while <character who="Achilles">Achilles</character>
-            dealt the meat. So they put forth their hands to the good cheer lying ready before them.</action> But when
+            dealt the meat. So they put forth their hands to the good cheer lying ready before them. But when
     they had put from them the desire of food and drink, then verily <character who="Priam">Priam, son of Dardanus</character>, marvelled
     at <character who="Achilles">Achilles</character>, how tall he was and how comely;<lb/>for he was like the gods to look upon. And a son
     of Dardanus, did <character who="Achilles">Achilles</character> marvel, beholding his goodly aspect and hearkening to his words. But when
@@ -1209,10 +1208,10 @@
     eyelids since at thy hands my son lost his life, but ever do I wail and brood over my countless
     sorrows,<lb/>grovelling in the filth in the closed spaces of the court. But now have I tasted of
     meat, and have let flaming wine pass down my throat; whereas till now had I tasted naught."<lb/> He
-    spake, and <character who="Achilles">Achilles</character> <action intention="positive" setting="private" direction="at_someone" relationship="neutral">bade his comrades and the handmaids set bedsteads beneath the portico,<lb/>and
+    spake, and <character who="Achilles">Achilles</character>bade his comrades and the handmaids set bedsteads beneath the portico,<lb/>and
         to lay on them fair purple blankets, and to spread thereover coverlets, and on these to put fleecy
         cloaks for clothing. So the maids went forth from the hall with torches in their hands, and
-        straightway spread two beds in busy haste</action>. Then mockingly spake unto <character who="Priam">Priam</character> <character who="Achilles" epithet="neutral">Achilles, swift of
+        straightway spread two beds in busy haste. Then mockingly spake unto <character who="Priam">Priam</character> <character who="Achilles" epithet="neutral">Achilles, swift of
             foot</character>:<lb/>"Without do thou lay thee down, dear old sire, lest there come hither one of the
     counsellors of the Achaeans, that ever sit by my side and take counsel, as is meet. If one of these
     were to have sight of thee through the swift black night, forthwith might he haply tell it to
@@ -1226,7 +1225,7 @@
         in our halls, and on the tenth will we make his funeral, and the folk shall feast, and on the
         eleventh will we heap a barrow over him, and on the twelfth will we do battle, if so be we must.</action>"
     Then spake to him in answer <character who="Achilles" epithet="positive">swift-footed, goodly Achilles</character>:"Thus shall this also be aged Priam, even
-    as thou wouldest have it;<lb/>for <action intention="positive" setting="public" direction="at_someone" relationship="neutral">I will hold back the battle for such time as thou dost bid.</action>" When
+    as thou wouldest have it;<lb/>for I will hold back the battle for such time as thou dost bid." When
     he had thus spoken he clasped the old man's right hand by the wrist, lest his heart should any wise
     wax fearful. So they laid them to sleep there in the fore-hall of the house, the herald and <character who="Priam">Priam</character>,
     with hearts of wisdom in their breasts;<lb/>but <character who="Achilles">Achilles</character> slept in the innermost part of the
@@ -1239,8 +1238,8 @@
     a great price thou gavest. But for thine own life must the sons thou hast, they that be left
     behind, give ransorn thrice so great, if so be Agamemnon, Atreus' son, have knowledge of thee, or
     the host of the Achaeans have knowledge." So spake he, and <emotion relationship="enemies" direction="at_someone" appropriate="yes" type="internal" felt="fear">the old man was seized with fear</emotion>, and
-    made the herald to arise.<lb/><action direction="at_no-one" relationship="neutral" setting="public" intention="positive">And <character who="Gods">Hermes</character> yoked for them the horses and mules, and himself lightly
-        drave them through the camp, neither had any man knowledge thereof.</action> But when they were now come to
+    made the herald to arise.<lb/>And <character who="Gods">Hermes</character> yoked for them the horses and mules, and himself lightly
+        drave them through the camp, neither had any man knowledge thereof. But when they were now come to
     the ford of the fair-flowing river, even eddying Xanthus, that immortal <character who="Gods">Zeus</character> begat, then <character who="Gods">Hermes</character>
     departed to high Olympus,<lb/>and <character who="Gods">Dawn</character>, the saffron-robed, was spreading over the face of all the
     earth. <action intention="positive" setting="public" relationship="familial" direction="at_no-one">So they with moaning and wailing drave the horses to the city, and the mules bare the dead.</action>
@@ -1252,19 +1251,19 @@
     of his coming back from battle; since great joy was he to the city and to all the folk."<lb/> So
     spake she, nor was any man left there within the city, neither any woman, for upon all had come
     grief that might not be borne; and hard by the gates they met <character who="Priam" epithet="neutral">Priam</character>, as he bare home the
-    dead.<lb/><action direction="at_someone" relationship="familial" setting="public" intention="positive"><emotion relationship="familial" direction="at_someone" felt="lament" type="external" appropriate="yes">First Hector's dear wife and queenly mother flung themselves upon the light-running
+    dead.<lb/><action direction="at_someone" relationship="familial" setting="public" intention="positive"><emotion relationship="familial" direction="at_someone" felt="lament" type="external" appropriate="yes">a dear wife and queenly mother flung themselves upon the light-running
         waggon, and clasping his head the while, wailed and tore their hair; and the folk thronged about
         and wept. And now the whole day long until set of sun had they made lament for Hector with shedding
         of tears there without the gates,<lb/>had not the old man spoken amid the folk from out the
-        car:"<action direction="at_someone" relationship="familial" intention="positive" setting="public">Make me way for the mules to pass through; thereafter shall ye take your fill of wailing, when
+        car:"Make me way for the mules to pass through; thereafter shall ye take your fill of wailing, when
             I have brought him to the house." So spake he, and they stood apart and made way for the waggon.
             But the others, when they had brought him to the glorious house,<lb/>laid him on a corded bedstead,
             and by his side set singers, leaders of the dirge, who led the song of lamentation—they chanted the
-            dirge, and thereat the women made lament. And amid these white-armed <emotion relationship="romantic" direction="at_someone" appropriate="yes" type="external" felt="lament">Andromache led the wailing,</emotion>
+            dirge, and thereat the women made lament. And amid these white-armed <emotion relationship="romantic" direction="at_someone" appropriate="yes" type="external" felt="lament"><action direction="at_someone" intention="positive" relationship="romantic" setting="public">Andromache led the wailing</action>,</emotion>
             holding in her arms the while the head of <character who="Hector" epithet="negative">man-slaying Hector</character>:<lb/>"Husband, perished from out of
             life art thou, <emotion felt="lament" type="external" appropriate="yes" direction="at_someone" relationship="romantic">yet in thy youth, and leavest me a widow in thy halls; and thy son is still but a
                 babe, the son born of thee and me in our haplessness; neither do I deem that he will come to
-                manhood, for ere that shall this city be wasted utterly.</emotion></action>. For thou hast perished that didst watch
+                manhood, for ere that shall this city be wasted utterly.</emotion>. For thou hast perished that didst watch
         thereover,<lb/>thou that didst guard it, and keep safe its noble wives and little children. These,
         I ween, shall soon be riding upon the hollow ships, and I among them; and thou, my child, shalt
         follow with me to a place where thou shalt labour at unseemly tasks, toiling before the face of
@@ -1295,22 +1294,22 @@
         Wherefore I wail alike for thee and for my hapless self with grief at heart; for no longer have I
         anyone beside in broad Troy<lb/>that is gentle to me or kind; but all men shudder at me."<lb/> So
         spake she wailing, and thereat the countless throng made moan. But the old man <character who="Priam">Priam</character> spake among
-        the folk, saying:<action relationship="familial" direction="at_someone" intention="positive" setting="public">"Bring wood now, ye men of Troy, unto the city, neither have ye anywise fear at
-            heart of a cunning ambush of the Argives</action>; for verily <character who="Achilles">Achilles</character> laid upon me this word<lb/>when he
+        the folk, saying:<action relationship="familial" direction="at_someone" intention="positive" setting="public">"Bring wood now</action>, ye men of Troy, unto the city, neither have ye anywise fear at
+            heart of a cunning ambush of the Argives; for verily <character who="Achilles">Achilles</character> laid upon me this word<lb/>when he
         sent me forth from the black ships, that he would do us no hurt until the twelfth dawn be come." So
         spake he, and they yoked oxen and mules to waggons, and speedily thereafter gathered together
         before the city. For nine days' space they brought in measureless store of wood,<lb/>but when the
         tenth Dawn arose, giving light unto mortals, then bare they forth <character who="Hector" epithet="positive">bold Hector</character>, shedding tears the
-        while, and on the topmost pyre they laid the dead man, and cast fire thereon.</action> <action setting="public" intention="positive" direction="at_someone" relationship="familial">But soon as early
+        while, and on the topmost pyre they laid the dead man, and cast fire thereon.</action> But soon as early
             <character who="Gods" epithet="positive">Dawn appeared, the rosy-fingered</character>, then gathered the folk about the pyre of <character who="Hector" epithet="positive">glorious Hector</character>.<lb/>And
             when they were assembled and met together, first they quenched with flaming wine all the pyre, so
-            far as the fire's might had come upon it, and thereafter his brethren and his comrades gathered the
-            white bones, mourning, and big tears flowed ever down their cheeks.<lb/>The bones they took and
+            far as the fire's might had come upon it, and thereafter his brethren and his comrades <action setting="public" intention="positive" direction="at_someone" relationship="familial">gathered the
+            white bones, mourning, and big tears flowed ever down their cheeks</action>.<lb/>The bones they took and
             placed in a golden urn, covering them over with soft purple robes, and quickly laid the urn in a
-            hollow grave, and covered it over with great close-set stones. </action><action intention="positive" direction="at_no-one" setting="public" relationship="familial">Then with spe'[ed heaped they the
+            hollow grave, and covered it over with great close-set stones.Then with speed heaped they the
                 mound, and round about were watchers set on every side,<lb/>lest the well-greaved Achaeans should
                 set upon them before the time. And when they had piled the barrow they went back, and gathering
-                together duly feasted a glorious feast in the palace </action> of <character who="Priam" epithet="positive">Priam, the king fostered of </character><character who="Gods">Zeus</character><action intention="positive" relationship="familial" setting="public" direction="at_someone"> On this
+                together duly feasted a glorious feast in the palace  of <character who="Priam" epithet="positive">Priam, the king fostered of </character><character who="Gods">Zeus</character><action intention="positive" relationship="familial" setting="public" direction="at_someone"> On this
                     wise held they funeral for <character who="Hector" epithet="neutral">horse-taming Hector</character>.</action>
 
 </book>
