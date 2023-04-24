@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="Schema/UPDATEDSCHEMA.rnc" type="application/relax-ng-compact-syntax"?>
 <book>
                     <lb/>Thus they made <emotion type="external" felt="lament" appropriate="yes" direction="at_no-one">lamentation</emotion> throughout the
                     city; but the Achaeans, when they were come to the ships and the Hellespont,
@@ -15,7 +16,7 @@
                     desire of wailing.<lb/>Wetted were the sands
                     and wetted the armour of the warriors with their tears; so mighty a deviser of
                     rout was he for whom they mourned. And among them the son of Peleus was leader
-                    in the vehement <emotion type="external" felt="lament" appropriaste="yes" direction="at_someone" relationship="romantic" >lamentation</emotion>; <action intention="positive" setting="public" direction="at_someone" relationship="romantic" >laying his man-slaying hands</action> upon the breast of his
+                    in the vehement <emotion type="external" felt="lament" appropriate="yes" direction="at_someone" relationship="romantic" >lamentation</emotion>; <action intention="positive" setting="public" direction="at_someone" relationship="romantic" >laying his man-slaying hands</action> upon the breast of his
                     comrade: "Hail, I bid thee, O <character who="Patroclus">Patroclus</character>, even in the house of
                             <character who="Gods">Hades</character>,<lb/>for even now I am bringing
                         to fulfillment all that aforetime I promised thee: that I would drag <character who="Hector">Hector</character>
@@ -1253,7 +1254,7 @@
     grief that might not be borne; and hard by the gates they met <character who="Priam" epithet="neutral">Priam</character>, as he bare home the
     dead.<lb/><action direction="at_someone" relationship="familial" setting="public" intention="positive"><emotion relationship="familial" direction="at_someone" felt="lament" type="external" appropriate="yes">a dear wife and queenly mother flung themselves upon the light-running
         waggon, and clasping his head the while, wailed and tore their hair; and the folk thronged about
-        and wept. And now the whole day long until set of sun had they made lament for Hector with shedding
+        and wept </emotion> </action>. And now the whole day long until set of sun had they made lament for Hector with shedding
         of tears there without the gates,<lb/>had not the old man spoken amid the folk from out the
         car:"Make me way for the mules to pass through; thereafter shall ye take your fill of wailing, when
             I have brought him to the house." So spake he, and they stood apart and made way for the waggon.
@@ -1268,7 +1269,7 @@
         I ween, shall soon be riding upon the hollow ships, and I among them; and thou, my child, shalt
         follow with me to a place where thou shalt labour at unseemly tasks, toiling before the face of
         some ungentle master, or else some Achaean shall seize thee by the arm<lb/>and hurl thee from the
-        wall, a woeful death,</emotion> being wroth for that <character who="Hector" >Hector</character> slew his brother haply, or his father, or his
+        wall, a woeful death, being wroth for that <character who="Hector" >Hector</character> slew his brother haply, or his father, or his
         son, seeing that full many Achaeans at the hands of <character who="Hector">Hector</character> have bitten the vast earth with their
         teeth; for nowise gentle was thy father in woeful war.<lb/>Therefore the folk wail for him
         throughout the city, and grief unspeakable and sorrow hast thou brought upon thy parents, <character who="Hector">Hector</character>;
@@ -1300,7 +1301,7 @@
         spake he, and they yoked oxen and mules to waggons, and speedily thereafter gathered together
         before the city. For nine days' space they brought in measureless store of wood,<lb/>but when the
         tenth Dawn arose, giving light unto mortals, then bare they forth <character who="Hector" epithet="positive">bold Hector</character>, shedding tears the
-        while, and on the topmost pyre they laid the dead man, and cast fire thereon.</action> But soon as early
+        while, and on the topmost pyre they laid the dead man, and cast fire thereon. But soon as early
             <character who="Gods" epithet="positive">Dawn appeared, the rosy-fingered</character>, then gathered the folk about the pyre of <character who="Hector" epithet="positive">glorious Hector</character>.<lb/>And
             when they were assembled and met together, first they quenched with flaming wine all the pyre, so
             far as the fire's might had come upon it, and thereafter his brethren and his comrades <action setting="public" intention="positive" direction="at_someone" relationship="familial">gathered the
