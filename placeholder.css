@@ -37,15 +37,16 @@ body {
 
 .char_hover {
     display: none;
-    position: relative;
+    position: absolute;
 }
 
 .character_hoverable:hover + .char_hover {
     background-color: #5E0818;
     color: #EDEBD7;
     opacity: 0.5;
-    visibility: visible;
-    position: relative;
+    position: absolute;
+    margin-top: 20px;
+    display: inline-block;
 }
 
 /*  .char_hover:hover {
@@ -63,13 +64,14 @@ body {
     background-color: #013220;
     color: #EDEBD7;
     opacity: 0.5;
-    visibility: visible;
-    position: relative;
-}
+    position: absolute;
+    margin-top: 20px;
+    display: inline-block;
+    }
 
 .emot_hover {
     display: none;
-    position: relative;
+    position: absolute;
 }
 
 .action_hoverable {
@@ -81,11 +83,12 @@ body {
     background-color: #000080;
     color: #EDEBD7;
     opacity: 0.5;
-    visibility: visible;
-    position: relative;
+    position: absolute;
+    margin-top: 20px;
+    display: inline-block;
 }
 
-act_hover {
+.act_hover {
     display: none;
-    position: relative;
+    position: absolute;
 }
