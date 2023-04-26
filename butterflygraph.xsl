@@ -53,8 +53,13 @@
                     <rect width="{$internal-length*10}" height="{$bar_height}" x="0" y="{$ypos}" style="fill:rgb(0,0,255);stroke-width:3;stroke:rgb(0,0,0)"/>
                     <rect width="{$external-length*10}" height="{$bar_height}" x="-{$external-length*10}" y="{$ypos}" style="fill:rgb(0,0,255);stroke-width:3;stroke:rgb(0,0,0)"/>
                 </xsl:for-each-group>
-                
-                
+                <!--Creating the Bar Lables -->
+                <text x="-200" y="25" fill="black">Lament</text>
+                <text x="-200" y="50" fill="black">Wrath</text>
+                <text x="-200" y="75" fill="black">Anger</text>
+                <text x="-200" y="100" fill="black">Fear</text>
+                <text x="-200" y="125" fill="black">Relief</text>
+                <text x="-200" y="150" fill="black">Wonder</text>
          </g>   
         </svg>
     </xsl:template>
