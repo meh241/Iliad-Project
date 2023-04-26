@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
-    xmlns:xs="http://www.w3.org/2001/XMLSchema"
-    exclude-result-prefixes="xs"
-    version="3.0"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema" exclude-result-prefixes="xs" version="3.0"
     xmlns="http://www.w3.org/2000/svg">
     <xsl:output method="xml" indent="yes"/>
     <!-- code for the butterfly graph dimensions -->
@@ -23,15 +21,15 @@
                 <!-- Axis Lables -->
                 <text x="{$half_width div 2}" y="-50" font-size="16" text-anchor="middle"
                     font-weight="300">Count: "Internal"</text>
-                    <text x="-{$half_width div 2}" y="-50" font-size="16" text-anchor="middle"
-                        font-weight="300">Count: "External"</text>
-                    <text x="0" y="{$max_height + 50}" font-size="18" text-anchor="middle"
-                        font-weight="300">Internal vs Extrernal Displays of Emotion"</text>
+                <text x="-{$half_width div 2}" y="-50" font-size="16" text-anchor="middle"
+                    font-weight="300">Count: "External"</text>
+                <text x="0" y="{$max_height + 50}" font-size="18" text-anchor="middle"
+                    font-weight="300">Internal vs Extrernal Displays of Emotion"</text>
                 <!-- Ruling Lines and Number Lables -->
                 <xsl:for-each select="0 to 5">
                     <xsl:variable name="pos" as="xs:double" select=". * ($half_width div 5)"/>
                     <text y="-20" x="{$pos}" font-size="13" text-anchor="middle">
-                        <xsl:value-of select=".*5"/>
+                        <xsl:value-of select=". * 5"/>
                     </text>
                     <line y1="-15" y2="0" x1="{$pos}" x2="{$pos}" stroke="black"/>
                     <line y1="0" y2="{$max_height}" x1="{$pos}" x2="{$pos}" stroke="black"
@@ -40,27 +38,49 @@
                 <xsl:for-each select="-5 to -1">
                     <xsl:variable name="pos" as="xs:double" select=". * ($half_width div 5)"/>
                     <text y="-20" x="{$pos}" font-size="13" text-anchor="middle">
-                        <xsl:value-of select="-(.*5)"/>
+                        <xsl:value-of select="-(. * 5)"/>
                     </text>
                     <line y1="-15" y2="0" x1="{$pos}" x2="{$pos}" stroke="black"/>
                     <line y1="0" y2="{$max_height}" x1="{$pos}" x2="{$pos}" stroke="black"
-                        opacity=".5"/> </xsl:for-each>              
+                        opacity=".5"/>
+                </xsl:for-each>
                 <!--Generating Bars -->
-                <xsl:for-each-group select="//emotion/@felt" group-by="." >
-                    <xsl:variable name="internal-length" as="xs:double" select="count(//emotion[@felt=current-grouping-key() and @type='internal'])"/>
-                    <xsl:variable name="external-length" as="xs:double" select="count(//emotion[@felt=current-grouping-key() and @type='external'])"/>
-                    <xsl:variable name="ypos" as="xs:double" select="(position() -1 ) * ($bar_height + $spacing) + $spacing"/>
-                    <rect width="{$internal-length*10}" height="{$bar_height}" x="0" y="{$ypos}" style="fill:rgb(0,0,255);stroke-width:3;stroke:rgb(0,0,0)"/>
-                    <rect width="{$external-length*10}" height="{$bar_height}" x="-{$external-length*10}" y="{$ypos}" style="fill:rgb(0,0,255);stroke-width:3;stroke:rgb(0,0,0)"/>
+                <xsl:for-each-group select="//emotion/@felt" group-by=".">
+                    <xsl:variable name="internal-length" as="xs:double"
+                        select="count(//emotion[@felt = current-grouping-key() and @type = 'internal'])"/>
+                    <xsl:variable name="external-length" as="xs:double"
+                        select="count(//emotion[@felt = current-grouping-key() and @type = 'external'])"/>
+                    <xsl:variable name="ypos" as="xs:double"
+                        select="(position() - 1) * ($bar_height + $spacing) + $spacing"/>
+                    <rect width="{$internal-length*10}" height="{$bar_height}" x="0" y="{$ypos}"
+                        style="fill:rgb(0,0,255);stroke-width:3;stroke:rgb(0,0,0)"/>
+                    <rect width="{$external-length*10}" height="{$bar_height}"
+                        x="-{$external-length*10}" y="{$ypos}"
+                        style="fill:rgb(0,0,255);stroke-width:3;stroke:rgb(0,0,0)"/>
+                    <!-- ================================================ -->
+                    <!--  Create bar labels automatically                 -->
+                    <!--                                                  -->
+                    <!-- Capitalize first letter, vertically align middle -->
+                    <!--     of label with middle of bar                  -->                                                
+                    <!-- ================================================ -->
+                    <xsl:variable name="capitalized-label" as="xs:string"
+                        select="upper-case(substring(current-grouping-key(), 1, 1)) || substring(current-grouping-key(), 2)"/>
+                    <text x="-200" y="{$ypos + $bar_height div 2}" fill="black"
+                        dominant-baseline="middle">
+                        <xsl:value-of select="$capitalized-label"/>
+                    </text>
                 </xsl:for-each-group>
+                <!-- ==================================================== -->
+                <!-- Remove commented lines below                         -->
+                <!-- ==================================================== -->
                 <!--Creating the Bar Lables -->
-                <text x="-200" y="25" fill="black">Lament</text>
+                <!--<text x="-200" y="25" fill="black">Lament</text>
                 <text x="-200" y="50" fill="black">Wrath</text>
                 <text x="-200" y="75" fill="black">Anger</text>
                 <text x="-200" y="100" fill="black">Fear</text>
                 <text x="-200" y="125" fill="black">Relief</text>
-                <text x="-200" y="150" fill="black">Wonder</text>
-         </g>   
+                <text x="-200" y="150" fill="black">Wonder</text>-->
+            </g>
         </svg>
     </xsl:template>
 </xsl:stylesheet>

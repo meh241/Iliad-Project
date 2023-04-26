@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" height="371" width="700">
+   <g transform="translate(300, 100)">
+      <line x1="-250" x2="250" y1="0" y2="0" stroke="black"/>
+      <line x1="0" x2="0" y1="0" y2="171" stroke="black"/>
+      <text x="125"
+            y="-50"
+            font-size="16"
+            text-anchor="middle"
+            font-weight="300">Count: "Internal"</text>
+      <text x="-125"
+            y="-50"
+            font-size="16"
+            text-anchor="middle"
+            font-weight="300">Count: "External"</text>
+      <text x="0"
+            y="221"
+            font-size="18"
+            text-anchor="middle"
+            font-weight="300">Internal vs Extrernal Displays of Emotion"</text>
+      <text y="-20" x="0" font-size="13" text-anchor="middle">0</text>
+      <line y1="-15" y2="0" x1="0" x2="0" stroke="black"/>
+      <line y1="0"
+            y2="171"
+            x1="0"
+            x2="0"
+            stroke="black"
+            opacity=".5"/>
+      <text y="-20" x="50" font-size="13" text-anchor="middle">5</text>
+      <line y1="-15" y2="0" x1="50" x2="50" stroke="black"/>
+      <line y1="0"
+            y2="171"
+            x1="50"
+            x2="50"
+            stroke="black"
+            opacity=".5"/>
+      <text y="-20" x="100" font-size="13" text-anchor="middle">10</text>
+      <line y1="-15" y2="0" x1="100" x2="100" stroke="black"/>
+      <line y1="0"
+            y2="171"
+            x1="100"
+            x2="100"
+            stroke="black"
+            opacity=".5"/>
+      <text y="-20" x="150" font-size="13" text-anchor="middle">15</text>
+      <line y1="-15" y2="0" x1="150" x2="150" stroke="black"/>
+      <line y1="0"
+            y2="171"
+            x1="150"
+            x2="150"
+            stroke="black"
+            opacity=".5"/>
+      <text y="-20" x="200" font-size="13" text-anchor="middle">20</text>
+      <line y1="-15" y2="0" x1="200" x2="200" stroke="black"/>
+      <line y1="0"
+            y2="171"
+            x1="200"
+            x2="200"
+            stroke="black"
+            opacity=".5"/>
+      <text y="-20" x="250" font-size="13" text-anchor="middle">25</text>
+      <line y1="-15" y2="0" x1="250" x2="250" stroke="black"/>
+      <line y1="0"
+            y2="171"
+            x1="250"
+            x2="250"
+            stroke="black"
+            opacity=".5"/>
+      <text y="-20" x="-250" font-size="13" text-anchor="middle">25</text>
+      <line y1="-15" y2="0" x1="-250" x2="-250" stroke="black"/>
+      <line y1="0"
+            y2="171"
+            x1="-250"
+            x2="-250"
+            stroke="black"
+            opacity=".5"/>
+      <text y="-20" x="-200" font-size="13" text-anchor="middle">20</text>
+      <line y1="-15" y2="0" x1="-200" x2="-200" stroke="black"/>
+      <line y1="0"
+            y2="171"
+            x1="-200"
+            x2="-200"
+            stroke="black"
+            opacity=".5"/>
+      <text y="-20" x="-150" font-size="13" text-anchor="middle">15</text>
+      <line y1="-15" y2="0" x1="-150" x2="-150" stroke="black"/>
+      <line y1="0"
+            y2="171"
+            x1="-150"
+            x2="-150"
+            stroke="black"
+            opacity=".5"/>
+      <text y="-20" x="-100" font-size="13" text-anchor="middle">10</text>
+      <line y1="-15" y2="0" x1="-100" x2="-100" stroke="black"/>
+      <line y1="0"
+            y2="171"
+            x1="-100"
+            x2="-100"
+            stroke="black"
+            opacity=".5"/>
+      <text y="-20" x="-50" font-size="13" text-anchor="middle">5</text>
+      <line y1="-15" y2="0" x1="-50" x2="-50" stroke="black"/>
+      <line y1="0"
+            y2="171"
+            x1="-50"
+            x2="-50"
+            stroke="black"
+            opacity=".5"/>
+      <rect width="70"
+            height="18"
+            x="0"
+            y="9"
+            style="fill:rgb(0,0,255);stroke-width:3;stroke:rgb(0,0,0)"/>
+      <rect width="140"
+            height="18"
+            x="-140"
+            y="9"
+            style="fill:rgb(0,0,255);stroke-width:3;stroke:rgb(0,0,0)"/>
+      <text x="-200" y="18" fill="black" dominant-baseline="middle">Lament</text>
+      <rect width="20"
+            height="18"
+            x="0"
+            y="36"
+            style="fill:rgb(0,0,255);stroke-width:3;stroke:rgb(0,0,0)"/>
+      <rect width="40"
+            height="18"
+            x="-40"
+            y="36"
+            style="fill:rgb(0,0,255);stroke-width:3;stroke:rgb(0,0,0)"/>
+      <text x="-200" y="45" fill="black" dominant-baseline="middle">Wrath</text>
+      <rect width="10"
+            height="18"
+            x="0"
+            y="63"
+            style="fill:rgb(0,0,255);stroke-width:3;stroke:rgb(0,0,0)"/>
+      <rect width="40"
+            height="18"
+            x="-40"
+            y="63"
+            style="fill:rgb(0,0,255);stroke-width:3;stroke:rgb(0,0,0)"/>
+      <text x="-200" y="72" fill="black" dominant-baseline="middle">Anger</text>
+      <rect width="10"
+            height="18"
+            x="0"
+            y="90"
+            style="fill:rgb(0,0,255);stroke-width:3;stroke:rgb(0,0,0)"/>
+      <rect width="20"
+            height="18"
+            x="-20"
+            y="90"
+            style="fill:rgb(0,0,255);stroke-width:3;stroke:rgb(0,0,0)"/>
+      <text x="-200" y="99" fill="black" dominant-baseline="middle">Relief</text>
+      <rect width="20"
+            height="18"
+            x="0"
+            y="117"
+            style="fill:rgb(0,0,255);stroke-width:3;stroke:rgb(0,0,0)"/>
+      <rect width="20"
+            height="18"
+            x="-20"
+            y="117"
+            style="fill:rgb(0,0,255);stroke-width:3;stroke:rgb(0,0,0)"/>
+      <text x="-200" y="126" fill="black" dominant-baseline="middle">Fear</text>
+      <rect width="20"
+            height="18"
+            x="0"
+            y="144"
+            style="fill:rgb(0,0,255);stroke-width:3;stroke:rgb(0,0,0)"/>
+      <rect width="0"
+            height="18"
+            x="-0"
+            y="144"
+            style="fill:rgb(0,0,255);stroke-width:3;stroke:rgb(0,0,0)"/>
+      <text x="-200" y="153" fill="black" dominant-baseline="middle">Wonder</text>
+   </g>
+</svg>
