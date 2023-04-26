@@ -70,17 +70,7 @@
                         <xsl:value-of select="$capitalized-label"/>
                     </text>
                 </xsl:for-each-group>
-                <!-- ==================================================== -->
-                <!-- Remove commented lines below                         -->
-                <!-- ==================================================== -->
-                <!--Creating the Bar Lables -->
-                <!--<text x="-200" y="25" fill="black">Lament</text>
-                <text x="-200" y="50" fill="black">Wrath</text>
-                <text x="-200" y="75" fill="black">Anger</text>
-                <text x="-200" y="100" fill="black">Fear</text>
-                <text x="-200" y="125" fill="black">Relief</text>
-                <text x="-200" y="150" fill="black">Wonder</text>-->
-            </g>
+                </g>
         </svg>
     </xsl:template>
 </xsl:stylesheet>
