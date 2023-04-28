@@ -36,9 +36,6 @@ body {
 p {
     padding: 10px 40px;
 }
-h2 {
-    padding: 10px 40px;
-}
 
 h3 {
     padding: 10px 40px;
@@ -62,6 +59,11 @@ figcaption {
     flex: 33.3%;
     padding: 5px;
 }
+
 .image1 {
     padding: 100px ;
+}
+
+.wrapper {
+    border-style: solid;
 }
