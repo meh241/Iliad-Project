@@ -69,13 +69,25 @@ figcaption {
 }
 
 .image1 {
-    padding: 100px ;
+    padding: 100px;
 }
 
 .wrapper {
     border-style: solid;
 }
 
+.paragraph_1 {
+    border-style: solid;
+}
+
+.paragraph_2 {
+    border-style: solid;
+}
+
 table {
     padding: 10px 40px;
+}
+
+svg {
+    padding: 10px 400px;
 }
