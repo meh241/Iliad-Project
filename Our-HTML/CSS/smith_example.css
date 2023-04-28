@@ -57,6 +57,12 @@ figcaption {
     padding: 15px 10px;
 }
 
+.image_row2 {
+    border-style: solid;
+    display: flex;
+    padding: 15px 10px;
+}
+
 .image_column {
     flex: 33.3%;
     padding: 5px;
@@ -68,4 +74,8 @@ figcaption {
 
 .wrapper {
     border-style: solid;
+}
+
+table {
+    padding: 10px 40px;
 }
