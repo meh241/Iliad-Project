@@ -43,7 +43,7 @@ body {
 .character_hoverable:hover + .char_hover {
     background-color: #5E0818;
     color: #EDEBD7;
-    opacity: 0.5;
+    opacity: 1;
     position: absolute;
     margin-top: 20px;
     display: inline-block;
@@ -63,7 +63,7 @@ body {
 .emotion_hoverable:hover + .emot_hover {
     background-color: #013220;
     color: #EDEBD7;
-    opacity: 0.5;
+    opacity: 1;
     position: absolute;
     margin-top: 20px;
     display: inline-block;
@@ -82,7 +82,7 @@ body {
 .action_hoverable:hover + .act_hover {
     background-color: #000080;
     color: #EDEBD7;
-    opacity: 0.5;
+    opacity: 1;
     position: absolute;
     margin-top: 20px;
     display: inline-block;
@@ -91,4 +91,9 @@ body {
 .act_hover {
     display: none;
     position: absolute;
+}
+
+td, th {
+    outline-style: solid;
+    padding: 10px 10px;
 }
