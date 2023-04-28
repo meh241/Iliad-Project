@@ -42,6 +42,7 @@ h3 {
 }
 .smallheader {
     padding: 10px 40px;
+    font-weight: bold;
 }
 img {
     padding: 10px 40px;
@@ -53,6 +54,7 @@ figcaption {
 
 .image_row {
     display: flex;
+    padding: 15px 10px;
 }
 
 .image_column {
